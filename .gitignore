@@ -1,0 +1,16 @@
+# Xcode user files
+xcuserdata/
+*.xcuserstate
+
+# Xcode build files
+DerivedData/
+build/
+
+# Swift Package Manager build files
+.build/
+
+# macOS files
+.DS_Store
+
+# Firebase configuration
+**/GoogleService-Info.plist
